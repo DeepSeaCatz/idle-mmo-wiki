@@ -9,7 +9,7 @@ Alchemy is a skill in IdleMMO that allows you to craft Potions and Essence Cryst
 Getting started:
 
 - To craft a Potion or Essence Crystal, you must have all the required ingredients in your inventory.
-- **Monster Crafting materials** - Can be obtained by defeating monsters or purchased from other players in the market.
+- **Monster Crafting Materials** - Can be obtained by defeating monsters or purchased from other players in the market.
 - **Merchant ingredients** - Every Potion require a specific tier of Vial and every Essence Crystal require a specific tier of Crystal. Both can be found in the General Goods Merchant. If you don't have this material in your inventory, you can Auto-purchase them when you're going to start crafting the potion of Essence crystal.
 
 More information on [Crafting Materials](/wiki/items-and-pets/crafting-material).
