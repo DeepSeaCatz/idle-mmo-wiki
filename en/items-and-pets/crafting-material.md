@@ -1,4 +1,4 @@
-### Crafting Material Info
+# Crafting Material
 
 The following Crafting Materials are in order of monster level that drop them.
 These Crafting Materials can be used for alchemy and forging weapons & armor.
@@ -74,3 +74,4 @@ More information on [Alchemy](/wiki/skills/alchemy).
 | **Moonblood Tincture**         | ![Moonblood Tincture](https://cdn.idle-mmo.com/cdn-cgi/image/height=75,width=75/uploaded/skins/s7LPLcmyDzNRlXnuuRxBxRsZHmhNEd-metabW9vbmJsb29kLXRpbmN0dXJlLnBuZw==-.png)                 | Potion of the Gods Titanwood Crystal                                                                                                                                                            | Divinity                                                                                                 | Fortune                                                                                                                                                                                                                                                                                                            |                                                                                       |
 
 </div>
+
