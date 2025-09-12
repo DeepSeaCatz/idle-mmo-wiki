@@ -24,7 +24,9 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 #### Skills
 ![Skills](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png) [Overview](/wiki/character/skills?same_window=true)\
-![Meditation](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/01JQ6Z12W4GN3T7S1Q216R91XM.png) [Meditation](/wiki/skills/meditation?same_window=true)
+![Meditation](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/01JQ6Z12W4GN3T7S1Q216R91XM.png) [Meditation](/wiki/skills/meditation?same_window=true)\
+![Alchemy](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/tMKfSVT7ZSbPwMxEIKmulq1B7lFIYZ-metaYWxjaGVteS5wbmc=-.png) [Alchemy](/wiki/skills/alchemy?same_window=true)
+
 
 </div>
 
@@ -65,6 +67,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 #### Items and Pets
 ![Item Database](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/1eJxBXb1BOJuZpUr2sL3NwaWOV3Gr0-metadGluLXN3b3JkLnBuZw==-.png) [Item Database](/wiki/items?same_window=true)\
+![Crafting Materials](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/U91devJnueuqYNKWWzC2D2D91C79K6-metacmFiYml0LnBuZw==-.png) [Crafting Materials](/wiki/items-and-pets/crafting-material?same_window=true)\
 ![Equipment](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/sEcpQ2y73QJB9p2npUDwKSrHhskKmn-metadGluLWNoZXN0cGxhdGUucG5n-.png) [Equipment](/wiki/items-and-pets/equipment?same_window=true)\
 ![Item Types](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/skins/items/ore/coal.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
 ![Qualities](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/tasks/upgrade_item.png) [Qualities](/wiki/items-and-pets/qualities?same_window=true)\
@@ -125,21 +128,3 @@ We have open sourced our Wiki on GitHub. You can contribute by submitting a Pull
 
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
