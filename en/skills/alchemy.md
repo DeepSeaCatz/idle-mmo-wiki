@@ -13,6 +13,7 @@ Getting started:
 - **Merchant ingredients** - Every Potion require a specific tier of Vial and every Essence Crystal require a specific tier of Crystal. Both can be found in the General Goods Merchant. If you don't have this material in your inventory, you can Auto-purchase them when you're going to start crafting the potion of Essence crystal.
 
 More information on [Crafting Materials](/wiki/items-and-pets/crafting-material).
+
 ---
 
 ### Potion and Essence Crystal Info
